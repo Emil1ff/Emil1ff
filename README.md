@@ -18,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emil1ff&show_icons=true&locale=en&layout=compact" alt="emil1ff" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emil1ff&show_icons=true&locale=en" alt="emil1ff" /></p>
+
+![snake gif](https://github.com/Emil1ff/Emil1ff/blob/output/github-contribution-grid-snake.gif)
