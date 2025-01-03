@@ -1,4 +1,4 @@
- [![MasterHead](https://lemon.io/wp-content/uploads/2023/02/Artboard-15-980x536-optim.jpg)
+ ![MasterHead](https://lemon.io/wp-content/uploads/2023/02/Artboard-15-980x536-optim.jpg)
 <h1 align="center">Hi 👋, I'm Emil</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
